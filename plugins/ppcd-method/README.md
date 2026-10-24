@@ -27,3 +27,7 @@ With this plugin, Claude guides you one step at a time and waits for you to say 
 Download `ppcd-method.zip` from this repo and upload it under your Claude skills settings.
 
 Contact: sharon@sygnltech.com
+
+## License
+
+PPCD Method by Sharon L. Simmons is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Share it with credit; no commercial use or modified versions. For commercial licensing, contact sharon@sygnltech.com.

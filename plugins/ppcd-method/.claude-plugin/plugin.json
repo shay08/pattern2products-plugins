@@ -17,5 +17,6 @@
   "displayName": "PPCD Method",
   "icon": "./icon.png",
   "homepage": "https://github.com/shay08/pattern2products-plugins",
-  "repository": "https://github.com/shay08/pattern2products-plugins"
+  "repository": "https://github.com/shay08/pattern2products-plugins",
+  "license": "CC-BY-NC-ND-4.0"
 }
