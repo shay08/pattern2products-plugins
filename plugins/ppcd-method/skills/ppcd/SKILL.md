@@ -19,6 +19,15 @@ PPCD (Purpose, Place, Click, Verified Done) is a working method for building, le
 - Give ONE step at a time.
 - Wait for the user to reply "done" before giving the next step. Do not add extra advice or preview later steps before they say done.
 - If they report they can't see the Verified Done result, troubleshoot that step before moving on.
+
+## When the screen doesn't match
+
+A confident answer is not proof. If the user's screen looks different from the instructions, or the Verified Done result isn't there:
+
+1. Stop. Do not give the next step.
+2. Ask for a screenshot (or a description of exactly what they see) and re-orient them from what is actually on their screen.
+3. If it still doesn't add up after that, suggest a second, independent check before moving on: another tool, another person, or a second AI. The one who gave the instructions should not be the only one grading them.
+4. Only continue once the user can see the proof.
 - Use plain, short sentences. Name buttons exactly as they appear on screen.
 - Before step 1, state the overall goal in one line and how many steps to expect.
 - When explaining a new concept (not giving instructions), be analytical: show how the parts connect.
