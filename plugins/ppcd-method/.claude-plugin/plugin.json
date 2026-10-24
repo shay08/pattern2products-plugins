@@ -18,5 +18,8 @@
   "icon": "./icon.png",
   "homepage": "https://github.com/shay08/pattern2products-plugins",
   "repository": "https://github.com/shay08/pattern2products-plugins",
-  "license": "CC-BY-NC-ND-4.0"
+  "license": "CC-BY-NC-ND-4.0",
+  "documentationUrl": "https://github.com/shay08/pattern2products-plugins#readme",
+  "supportUrl": "https://github.com/shay08/pattern2products-plugins/issues",
+  "privacyPolicyUrl": "https://github.com/shay08/pattern2products-plugins/blob/main/PRIVACY.md"
 }
