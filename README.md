@@ -16,7 +16,7 @@ With this plugin, Claude guides you one step at a time and waits for you to say 
 ## Install in Claude Code
 
 ```
-/plugin marketplace add OWNER/pattern2products-plugins
+/plugin marketplace add shay08/pattern2products-plugins
 /plugin install ppcd-method@pattern2products
 ```
 
