@@ -4,7 +4,18 @@
   "description": "Guides any build or learning task one step at a time: Purpose, Place, Click, Verified Done.",
   "author": {
     "name": "Sharon L. Simmons",
-    "email": "sharon@sygnltech.com"
+    "email": "sharon@sygnltech.com",
+    "url": "https://github.com/shay08"
   },
-  "keywords": ["ppcd", "step-by-step", "learning", "teaching", "pattern2products"]
+  "keywords": [
+    "ppcd",
+    "step-by-step",
+    "learning",
+    "teaching",
+    "pattern2products"
+  ],
+  "displayName": "PPCD Method",
+  "icon": "./icon.png",
+  "homepage": "https://github.com/shay08/pattern2products-plugins",
+  "repository": "https://github.com/shay08/pattern2products-plugins"
 }

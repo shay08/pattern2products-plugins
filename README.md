@@ -1,5 +1,7 @@
 # Pattern2Products Plugins
 
+<img src="icon.png" alt="PPCD Method icon" width="160">
+
 Plugins by **Sharon L. Simmons**, founder of SYGNL Technologies.
 
 ## PPCD Method
