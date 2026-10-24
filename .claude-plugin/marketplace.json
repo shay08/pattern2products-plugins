@@ -1,0 +1,15 @@
+{
+  "name": "pattern2products",
+  "description": "Pattern2Products plugins by Sharon L. Simmons, SYGNL Technologies",
+  "owner": {
+    "name": "Sharon L. Simmons",
+    "email": "sharon@sygnltech.com"
+  },
+  "plugins": [
+    {
+      "name": "ppcd-method",
+      "source": "./plugins/ppcd-method",
+      "description": "Guides any build or learning task one step at a time: Purpose, Place, Click, Verified Done."
+    }
+  ]
+}
