@@ -1,16 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="80" fill="#F5B800"/>
-  <g fill="none" stroke="#111A30" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="256" cy="190" r="45" fill="#FFF3B0"/>
-    <path d="M256 238v116M256 270 155 168M256 270l101-102M256 354l-70 92M256 354l70 92"/>
-    <path d="M64 74h148v86H64zM300 74h148v86H300z" fill="#FFFDF5"/>
+  <rect width="512" height="512" rx="72" fill="#FFC400"/>
+  <g stroke="#10203F" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(-7 143 170)">
+      <rect x="62" y="91" width="152" height="112" rx="14" fill="#FFFDF7"/>
+      <text x="138" y="171" fill="#10203F" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" text-anchor="middle">3A</text>
+    </g>
+    <g transform="rotate(7 369 170)">
+      <rect x="298" y="91" width="152" height="112" rx="14" fill="#FFFDF7"/>
+      <text x="374" y="171" fill="#10203F" stroke="none" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" text-anchor="middle">R</text>
+    </g>
+    <path d="M256 317v80M256 347 151 218M256 347l105-129M256 397l-62 79M256 397l62 79" fill="none"/>
+    <path d="M151 218 138 197M361 218l13-21" fill="none"/>
+    <circle cx="256" cy="263" r="58" fill="#FFFDF7"/>
+    <path d="M229 259q12-17 24 0M259 259q12-17 24 0" fill="none" stroke-width="8"/>
+    <path d="M232 277q24 31 48 0v8q-24 35-48 0z" fill="#10203F" stroke-width="6"/>
+    <path d="M246 295q10-9 20 0v5h-20z" fill="#FF5A67" stroke="none"/>
+    <path d="M22 130l24 8M17 173l25-1M29 215l20-11" fill="none" stroke="#19B8D2" stroke-width="13"/>
+    <path d="M490 130l-24 8M495 173l-25-1M483 215l-20-11" fill="none" stroke="#F45C68" stroke-width="13"/>
   </g>
-  <g fill="#111A30" font-family="Arial, Helvetica, sans-serif" font-weight="800" text-anchor="middle">
-    <text x="138" y="137" font-size="48">3A</text>
-    <text x="374" y="137" font-size="56">R</text>
-  </g>
-  <g fill="#111A30">
-    <circle cx="242" cy="185" r="5"/><circle cx="270" cy="185" r="5"/>
-    <path d="M242 203q14 13 28 0" fill="none" stroke="#111A30" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#10203F">
+    <circle cx="145" cy="213" r="19"/>
+    <circle cx="367" cy="213" r="19"/>
+    <circle cx="256" cy="206" r="0"/>
+    <ellipse cx="185" cy="481" rx="40" ry="13"/>
+    <ellipse cx="327" cy="481" rx="40" ry="13"/>
   </g>
 </svg>
