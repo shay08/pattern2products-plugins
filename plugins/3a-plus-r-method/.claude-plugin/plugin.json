@@ -1,0 +1,23 @@
+{
+  "name": "3a-plus-r-method",
+  "version": "1.0.0",
+  "description": "Helps evaluate an idea, tool, feature, or recommendation through Adapt, Adopt, Already Ahead, or Reject.",
+  "author": {
+    "name": "Sharon L. Simmons",
+    "email": "sharon@sygnltech.com",
+    "url": "https://github.com/shay08"
+  },
+  "keywords": [
+    "3a+r",
+    "decision-making",
+    "idea-evaluation",
+    "pattern2products"
+  ],
+  "displayName": "3A+R Method",
+  "homepage": "https://github.com/shay08/pattern2products-plugins",
+  "repository": "https://github.com/shay08/pattern2products-plugins",
+  "license": "CC-BY-NC-ND-4.0",
+  "documentationUrl": "https://github.com/shay08/pattern2products-plugins#readme",
+  "supportUrl": "https://github.com/shay08/pattern2products-plugins/issues",
+  "privacyPolicyUrl": "https://github.com/shay08/pattern2products-plugins/blob/main/PRIVACY.md"
+}
