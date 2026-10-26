@@ -10,6 +10,11 @@
       "name": "ppcd-method",
       "source": "./plugins/ppcd-method",
       "description": "Guides any build or learning task one step at a time: Purpose, Place, Click, Verified Done."
+    },
+    {
+      "name": "3a-plus-r-method",
+      "source": "./plugins/3a-plus-r-method",
+      "description": "Helps evaluate an idea, tool, feature, or recommendation through Adapt, Adopt, Already Ahead, or Reject."
     }
   ]
 }
