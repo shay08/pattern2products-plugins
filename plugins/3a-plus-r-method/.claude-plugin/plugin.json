@@ -19,5 +19,6 @@
   "license": "CC-BY-NC-ND-4.0",
   "documentationUrl": "https://github.com/shay08/pattern2products-plugins#readme",
   "supportUrl": "https://github.com/shay08/pattern2products-plugins/issues",
-  "privacyPolicyUrl": "https://github.com/shay08/pattern2products-plugins/blob/main/PRIVACY.md"
+  "privacyPolicyUrl": "https://github.com/shay08/pattern2products-plugins/blob/main/PRIVACY.md",
+  "icon": ".claude-plugin/icon.svg"
 }
