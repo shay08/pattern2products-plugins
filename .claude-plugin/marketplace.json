@@ -15,6 +15,11 @@
       "name": "3a-plus-r-method",
       "source": "./plugins/3a-plus-r-method",
       "description": "Helps evaluate an idea, tool, feature, or recommendation through Adapt, Adopt, Already Ahead, or Reject."
+    },
+    {
+      "name": "paidx-lite",
+      "source": "./plugins/paidx-lite",
+      "description": "Identifies potential paid work in public help requests and drafts careful public replies and private follow-ups."
     }
   ]
 }
