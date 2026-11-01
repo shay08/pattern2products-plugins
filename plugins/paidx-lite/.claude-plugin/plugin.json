@@ -1,0 +1,18 @@
+{
+  "name": "paidx-lite",
+  "version": "1.0.0",
+  "description": "Find potential paid service opportunities in public help requests and draft respectful replies and follow-ups.",
+  "author": {
+    "name": "Sharon L. Simmons"
+  },
+  "keywords": [
+    "PaidX",
+    "client-acquisition",
+    "service-business",
+    "community",
+    "lead-generation"
+  ],
+  "displayName": "PaidX Lite",
+  "repository": "https://github.com/shay08/pattern2products-plugins",
+  "documentationUrl": "https://github.com/shay08/pattern2products-plugins/tree/main/plugins/paidx-lite"
+}
